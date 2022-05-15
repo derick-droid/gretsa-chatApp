@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="me_you_chats">Me-You Chats</string>
+    <string name="Phone_Number">PhoneNumber</string>
+
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="create_account">Create Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="register">Register</string>
+    <string name="me_you">Me-You</string>
+    <string name="type_your_messsage_here">Type your messsage here....</string>
+    <string name="type_your_message_here" />
+    <string name="type_your_message">Type your message...</string>
+    <string name="me_you_chat_app">Me-You Chat App</string>
+
+</resources>
